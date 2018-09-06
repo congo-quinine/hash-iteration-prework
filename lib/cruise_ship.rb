@@ -8,5 +8,5 @@
 
 def select_winner(passengers)
   winner = ""
-  passengers.each do 
+  passengers.each do ||
 end
